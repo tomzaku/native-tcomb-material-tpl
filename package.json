@@ -1,26 +1,25 @@
 {
-  "name": "tcomb-form-native-templates-material",
+  "name": "native-tcomb-material-tpl",
   "version": "0.0.0",
   "description": "Material UI templates for `tcomb-form-native`",
   "main": "lib",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/QuantumBA/tcomb-form-native-templates-material.git"
+    "url": "git+https://github.com/tomzaku/native-tcomb-material-tpl.git"
   },
-  "author": "Quantum BA (http://www.quantum-ba.com/)",
+  "author": "Quantum BA (http://www.quantum-ba.com/) & Zaku",
   "contributors": [
     "Jesús Leganés-Combarro 'piranna' <piranna@gmail.com>"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/QuantumBA/tcomb-form-native-templates-material/issues"
+    "url": "https://github.com/tomzaku/native-tcomb-material-tpl/issues"
   },
-  "homepage": "https://github.com/QuantumBA/tcomb-form-native-templates-material#readme",
+  "homepage": "https://github.com/tomzaku/native-tcomb-material-tpl",
   "dependencies": {
     "pickerdialog": "github:QuantumBA/PickerDialog",
     "react-native-material-textfield": "^0.12.0",
     "react-native-material-ui": "^1.20.0",
-    "react-native-responsive-ui": "^1.1.1",
     "react-native-web-lists": "github:QuantumBA/react-native-web-lists"
   }
 }
